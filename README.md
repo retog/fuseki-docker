@@ -1,3 +1,5 @@
+Archiving in favour of: https://github.com/linked-solutions/fuseki
+
 # Docker files for Jena
 
 This repository hosts [Docker](https://www.docker.com/) recipes for distributing 
